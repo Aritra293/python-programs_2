@@ -1,0 +1,5 @@
+values=input()
+lnum=values.split(",")
+tup=tuple(lnum)
+print(lnum)
+print(tup)
